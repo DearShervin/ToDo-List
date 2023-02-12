@@ -1,1 +1,1 @@
-A Todo List web app , you can add to the list and remove it.
+A Todo List web app , you can add to the list and remove from the list.
